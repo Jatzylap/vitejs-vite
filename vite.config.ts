@@ -1,3 +1,1 @@
-export default {
-  base: '/vitejs-vite/'
-}
+export default {}
